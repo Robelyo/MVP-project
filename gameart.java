@@ -1,0 +1,29 @@
+public class gameart {
+    public void welcomeart(){
+        System.out.println("░█░█░█▀▀░█░░░█▀▀░█▀█░█▄█░█▀▀░░░▀█▀░█▀█░░░▀█▀░▀█▀░█▀▀░░░▀█▀░█▀█░█▀▀░░░▀█▀░█▀█░█▀▀░░");
+        System.out.println("░█▄█░█▀▀░█░░░█░░░█░█░█░█░█▀▀░░░░█░░█░█░░░░█░░░█░░█░░░░░░█░░█▀█░█░░░░░░█░░█░█░█▀▀░░");
+        System.out.println("░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░░░░▀░░▀▀▀░░░░▀░░▀▀▀░▀▀▀░░░░▀░░▀░▀░▀▀▀░░░░▀░░▀▀▀░▀▀▀░░");
+    }
+    public void rematchart(){
+        System.out.println("                                                       ▄▄▄▄    "); 
+        System.out.println("█████▄  ██████ ██▄  ▄██ ▄████▄ ██████ ▄█████ ██  ██   █▀▀▀██   "); 
+        System.out.println("██▄▄██▄ ██▄▄   ██ ▀▀ ██ ██▄▄██   ██   ██     ██████     ▄█▀    "); 
+        System.out.println("██   ██ ██▄▄▄▄ ██    ██ ██  ██   ██   ▀█████ ██  ██     ▄▄     "); 
+        System.out.println("                                                               ");
+    }
+    public void drawart(){
+        System.out.println("░█▀▄░█▀▄░█▀█░█░█");
+        System.out.println("░█░█░█▀▄░█▀█░█▄█");
+        System.out.println("░▀▀░░▀░▀░▀░▀░▀░▀");                                                       
+    }
+    public void p1wart(){
+        System.out.println("█▀█░▀█░░░░█░█░▀█▀░█▀█");
+        System.out.println("█▀▀░░█░░░░█▄█░░█░░█░█");
+        System.out.println("▀░░░▀▀▀░░░▀░▀░▀▀▀░▀░▀"); 
+    }
+    public void p2wart(){
+        System.out.println("█▀█░▀▀▄░░░█░█░▀█▀░█▀█");
+        System.out.println("█▀▀░▄▀░░░░█▄█░░█░░█░█");
+        System.out.println("▀░░░▀▀▀░░░▀░▀░▀▀▀░▀░▀"); 
+    }                                                             
+}
